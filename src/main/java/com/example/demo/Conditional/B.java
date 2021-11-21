@@ -4,7 +4,7 @@ public class B {
     String s = "hello";
 
     static {
-        System.out.println("静态代码块---");
+        System.out.println("静态代---");
     }
     {
         System.out.println("代码块---"+s);
